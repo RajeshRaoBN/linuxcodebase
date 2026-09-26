@@ -1,0 +1,9 @@
+#!/bin/sh
+# This is a comment and hence ignored by the shell
+echo "Hello World!"
+echo "Hello Again"
+echo "I like typing this."
+echo "This is fun."
+echo "Yay! Printing."
+echo "I'd much rather you 'not'."
+echo 'I "said" do not touch this.'
